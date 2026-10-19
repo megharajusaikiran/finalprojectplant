@@ -17,8 +17,8 @@ Before running on a new computer or laptop, ensure the following are installed:
 
 ### Step 1: Clone or Copy the Repository
 ```bash
-git clone https://github.com/Siddhartha5-cpu/PLANTSHIELD.git
-cd PLANTSHIELD
+git clone https://github.com/megharajusaikiran/finalprojectplant.git
+cd finalprojectplant
 ```
 
 ### Step 2: Configure Environment Variables
